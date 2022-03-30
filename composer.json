@@ -21,6 +21,10 @@
         "illuminate/events": "5.4.*||5.5.*||5.6.*||5.7.*||5.8.*||^6.0||^7.0||^8.0||*",
         "nesbot/carbon": "~1.20||^1.26.3||^2.0||*"
     },
+    "repositories": [{
+            "type": "vcs",
+            "url": "https://github.com/pramodbhandari68/shoppingcart.git"
+        }],
     "require-dev": {
         "phpunit/phpunit": "~5.0||~6.0||~7.0||~8.0||~9.0",
         "mockery/mockery": "^1.0",
